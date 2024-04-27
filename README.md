@@ -1,2 +1,2 @@
 # LLMAPP
-development repository of webapplication using streamlit and Open ai api.
+Web application using OpenAI API and streamlit.
